@@ -50,7 +50,6 @@ grml-zsh-config
 grub
 hdparm
 hyperv
-icu
 intel-ucode
 irssi
 iw
@@ -167,7 +166,6 @@ xfsprogs
 xl2tpd
 yaml-cpp
 yay-bin
-zen-browser-bin
 zsh
 
 # VMWARE
